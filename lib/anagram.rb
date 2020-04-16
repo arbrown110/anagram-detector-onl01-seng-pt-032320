@@ -7,4 +7,4 @@ class Anagram
   end
   
   def match(array)
-    array.select
+    array.select{|b| b.split 
