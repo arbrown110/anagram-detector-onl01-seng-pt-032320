@@ -7,6 +7,6 @@ class Anagram
   end
   
   def match(array)
-    array.select{|b| b.split(" ").sort == @name.split(" ").sort}
+    array.
   end  
 end    
