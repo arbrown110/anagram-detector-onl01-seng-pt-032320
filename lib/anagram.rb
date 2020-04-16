@@ -6,4 +6,4 @@ class Anagram
     @name = word
   end
   
-  def mtch (array)
+  def match(array)
